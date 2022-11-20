@@ -1,4 +1,5 @@
 "# IPMU_Juego_2022" 
-Movimiento con WASD
-Giro con QE
-Menú pausa = Escape
+## Controles
+Movimiento con WASD <br />
+Rotación escena con QE <br />
+Menu pausa con Escape <br />
