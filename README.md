@@ -1,4 +1,4 @@
-"# IPMU_Juego_2022" 
+"#IPMU_22-23_P2_GRUPO-C" 
 ## Controles
 Movimiento con WASD <br />
 Rotación escena con QE <br />
